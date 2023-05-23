@@ -1,0 +1,11 @@
+G:\项目文件\DesignPatterns\DesignPatternMain\bin\Debug\DesignPatternMain.exe.config
+G:\项目文件\DesignPatterns\DesignPatternMain\bin\Debug\DesignPatternMain.exe
+G:\项目文件\DesignPatterns\DesignPatternMain\bin\Debug\DesignPatternMain.pdb
+G:\项目文件\DesignPatterns\DesignPatternMain\obj\Debug\DesignPatternMain.csproj.AssemblyReference.cache
+G:\项目文件\DesignPatterns\DesignPatternMain\obj\Debug\DesignPatternMain.csproj.SuggestedBindingRedirects.cache
+G:\项目文件\DesignPatterns\DesignPatternMain\obj\Debug\DesignPatternMain.DesginWinFrom.resources
+G:\项目文件\DesignPatterns\DesignPatternMain\obj\Debug\DesignPatternMain.Properties.Resources.resources
+G:\项目文件\DesignPatterns\DesignPatternMain\obj\Debug\DesignPatternMain.csproj.GenerateResource.cache
+G:\项目文件\DesignPatterns\DesignPatternMain\obj\Debug\DesignPatternMain.csproj.CoreCompileInputs.cache
+G:\项目文件\DesignPatterns\DesignPatternMain\obj\Debug\DesignPatternMain.exe
+G:\项目文件\DesignPatterns\DesignPatternMain\obj\Debug\DesignPatternMain.pdb

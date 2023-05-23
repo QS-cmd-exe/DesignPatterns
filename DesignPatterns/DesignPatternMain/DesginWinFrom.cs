@@ -14,7 +14,7 @@ namespace DesignPatternMain
 {
     public partial class DesginWinFrom : Form
     {
-        public DesginWinFrom()
+        public DesginWinFrom()  
         {
             InitializeComponent();
         }

@@ -301,6 +301,7 @@
             this.Btn_FactoryPattern.TabIndex = 25;
             this.Btn_FactoryPattern.Text = "工厂模式";
             this.Btn_FactoryPattern.UseVisualStyleBackColor = false;
+            this.Btn_FactoryPattern.Click += new System.EventHandler(this.Btn_FactoryPattern_Click);
             // 
             // groupBox1
             // 

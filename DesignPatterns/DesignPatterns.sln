@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternMain", "DesignPatternMain\DesignPatternMain.csproj", "{D9C18F14-1DFD-47AE-9D53-512071CCE56C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasuitTools", "MasuitTools\MasuitTools.csproj", "{6F17C03A-B7A7-4C9F-9799-931210AB623F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D9C18F14-1DFD-47AE-9D53-512071CCE56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9C18F14-1DFD-47AE-9D53-512071CCE56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9C18F14-1DFD-47AE-9D53-512071CCE56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F17C03A-B7A7-4C9F-9799-931210AB623F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F17C03A-B7A7-4C9F-9799-931210AB623F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F17C03A-B7A7-4C9F-9799-931210AB623F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F17C03A-B7A7-4C9F-9799-931210AB623F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
